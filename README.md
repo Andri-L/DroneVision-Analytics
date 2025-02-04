@@ -17,9 +17,9 @@ The purpose of this code is to count and analyze the number of people in open sp
 
 ### Requirements
 To use this project, you need:
-- An environment compatible with Google Colab.
-- Updated libraries, including OpenCV, NumPy, and other dependencies required for person detection.
-- Images or videos in an eagle-eye view to enable proper people detection.
+- Work with Google Colab using the Noteebook file.
+- Updated libraries, including OpenCV, NumPy, and other dependencies in the requirements.txt file
+- A video in an eagle-eye view to enable proper people detection.
 
 # About the Code
 ## Code Update
