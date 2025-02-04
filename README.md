@@ -25,3 +25,9 @@ To use this project, you need:
 ## Code Update
 The code has been updated to ensure compatibility with the latest versions of the libraries used. Due to changes in the functions and parameters of OpenCV and other dependencies, adjustments have been made to the implementation to ensure proper functionality.
 
+## Instructions:
+1. Download the .ipynb file
+2. Upload it to Google Colab
+3. Upload the video of your preference
+4. Update the path of the video in the main.py file
+5. Execute all cells in the Notebook
